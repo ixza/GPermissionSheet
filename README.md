@@ -7,8 +7,8 @@ Written and tested on Python 3.11.0
 
 You will need:
 
--Service account with permissions to the Google sheet you want to read
--A blank Google sheet for the program to output to
+- Service account with permissions to the Google sheet you want to read
+* A blank Google sheet for the program to output to
 
 
 ## Usage
@@ -22,8 +22,8 @@ Run main.py
 
 ## Features
 
-*Fully formatted and readable output sheet
-*Works on any sheet as long as service account has permission to it
+- Fully formatted and readable output sheet
+* Works on any sheet as long as service account has permission to it
 
 ## TODO
 Clean up spaghetti code 💀
