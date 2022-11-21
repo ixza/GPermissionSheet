@@ -1,0 +1,4 @@
+{
+"Sample Name": ["something@gmail.com", "something2@gmail.com", "something3@gmail.com"],
+"Sample Name": "samplename@gmail.com", 
+}
