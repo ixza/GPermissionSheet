@@ -24,6 +24,3 @@ Run main.py
 
 - Fully formatted and readable output sheet
 * Works on any sheet as long as service account has permission to it
-
-## TODO
-Clean up spaghetti code 💀
